@@ -17,7 +17,7 @@
 
 ### 3. [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain?specialization=blockchain)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/352JJ59JU6UH_
 #
 
 ### 4. [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms?specialization=blockchain)

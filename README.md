@@ -12,7 +12,7 @@
 
 ### 2. [Smart Contracts](https://www.coursera.org/learn/smarter-contracts?specialization=blockchain)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/4QHCBX5GW8JZ_
 #
 
 ### 3. [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain?specialization=blockchain)

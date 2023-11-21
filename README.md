@@ -2,12 +2,12 @@
 
 
 ## [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
-####    **Certificate:** __
+####    **Certificate:** 
 #
 
 ### 1. [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics?specialization=blockchain)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/C6JPYVVC5MT3_
 #
 
 ### 2. [Smart Contracts](https://www.coursera.org/learn/smarter-contracts?specialization=blockchain)
